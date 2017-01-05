@@ -1,7 +1,7 @@
 # 555_timer
 
 ## Requirements
-Python: [download](https://www.python.org/)
+Python: [installation and download information.](https://www.python.org/)
 
 ## Setup
 * Download the repository.
@@ -11,5 +11,5 @@ Python: [download](https://www.python.org/)
 
 ## Run
 1. In your terminal, navigate to the directory containing the repository files.
-2. In your terminal run the command **python 555_clk_freq.p**
+2. In your terminal run the command **python 555_clk_freq.py**
 3. Input the desired frequency as prompted.
